@@ -1,0 +1,25 @@
+{
+  "name": "lbjhui.vitepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev doc",
+    "docs:build": "vitepress build doc",
+    "docs:preview": "vitepress preview doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LBJhui/LBJhui.vitepress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LBJhui/LBJhui.vitepress/issues"
+  },
+  "homepage": "https://github.com/LBJhui/LBJhui.vitepress#readme",
+  "devDependencies": {
+    "vitepress": "^1.1.0"
+  }
+}
